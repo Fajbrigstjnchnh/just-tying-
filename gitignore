@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+
+# Keep data and models folders tracked, but you can uncomment below
+# if your dataset is too large for GitHub (>100MB):
+# data/credit_risk_dataset.csv
